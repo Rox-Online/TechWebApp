@@ -1,2 +1,2 @@
-# TechWebApp
-E- commerce website to sell gardets
+# Uni Attendance Sys.
+Sys. create for check in school students & lecturers 
