@@ -1,2 +1,3 @@
-# Uni Attendance Sys.
-Sys. create for check in school students & lecturers 
+# E Com WebSite
+For buying products and items online 
+
